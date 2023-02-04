@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\bin\Debug\WFC2.exe.config
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\bin\Debug\WFC2.exe
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\bin\Debug\WFC2.pdb
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.Properties.Resources.resources
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.csproj.CopyComplete
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.exe
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.pdb
+C:\Users\ACER\source\repos\C2109I2Csharp\WFC23\WFC2\obj\Debug\WFC2.Form1.resources
