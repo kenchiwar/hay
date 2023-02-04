@@ -5,11 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace WFC2
-{   
-    internal class CcA
+{
+    internal class Class1
     {
-        public int hay;
-        public int x;
-
     }
 }
